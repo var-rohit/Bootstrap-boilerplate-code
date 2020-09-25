@@ -1,0 +1,27 @@
+.bg-dark{
+    background-color: #060606 !important;
+
+}
+
+.dropdown-menu{
+    background-color: #060606;
+}
+
+.dropdown-item{
+    color:white !important;
+    text-align: right;
+}
+
+.navbar{
+    z-index:2;width: 100%;position: relative;
+}
+
+.nav-link{
+    text-align: right;
+    color:white !important;
+}
+
+.nav-item{
+    color:white !important;
+}
+
